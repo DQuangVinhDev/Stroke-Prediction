@@ -1,0 +1,1 @@
+We followed thoroughly the steps of data pre-processing, training, testing, fine-tuning and evaluating 2 classification algorithms, including Naïve Bayes and Logistic Regression, using 10-fold cross-validation technique.
